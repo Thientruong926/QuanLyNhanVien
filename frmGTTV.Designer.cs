@@ -102,7 +102,7 @@
             this.txtMaSo1.ReadOnly = true;
             this.txtMaSo1.Size = new System.Drawing.Size(189, 19);
             this.txtMaSo1.TabIndex = 10;
-            this.txtMaSo1.Text = "49.01.104.162";
+            this.txtMaSo1.Text = "49.01.104.018";
             // 
             // label3
             // 
@@ -129,7 +129,7 @@
             this.txtTen1.ReadOnly = true;
             this.txtTen1.Size = new System.Drawing.Size(189, 19);
             this.txtTen1.TabIndex = 2;
-            this.txtTen1.Text = "Hứa Thiên Trường";
+            this.txtTen1.Text = "Hoàng Tấn Dũng";
             // 
             // labelTen1
             // 
@@ -173,7 +173,7 @@
             this.txtMaSo5.ReadOnly = true;
             this.txtMaSo5.Size = new System.Drawing.Size(186, 19);
             this.txtMaSo5.TabIndex = 10;
-            this.txtMaSo5.Text = "49.01.104.162";
+            this.txtMaSo5.Text = "49.01.104.071";
             // 
             // label7
             // 
@@ -200,7 +200,7 @@
             this.txtTen5.ReadOnly = true;
             this.txtTen5.Size = new System.Drawing.Size(186, 19);
             this.txtTen5.TabIndex = 2;
-            this.txtTen5.Text = "Hứa Thiên Trường";
+            this.txtTen5.Text = "Trần Quốc Khánh";
             // 
             // labelTen5
             // 
@@ -293,7 +293,7 @@
             this.txtMaSo3.ReadOnly = true;
             this.txtMaSo3.Size = new System.Drawing.Size(186, 19);
             this.txtMaSo3.TabIndex = 10;
-            this.txtMaSo3.Text = "49.01.104.162";
+            this.txtMaSo3.Text = "49.01.104.067";
             // 
             // label17
             // 
@@ -320,7 +320,7 @@
             this.txtTen3.ReadOnly = true;
             this.txtTen3.Size = new System.Drawing.Size(186, 19);
             this.txtTen3.TabIndex = 2;
-            this.txtTen3.Text = "Hứa Thiên Trường";
+            this.txtTen3.Text = "Hà Thái Khánh";
             // 
             // labelTen3
             // 
@@ -353,7 +353,7 @@
             this.txtMaSo2.ReadOnly = true;
             this.txtMaSo2.Size = new System.Drawing.Size(185, 19);
             this.txtMaSo2.TabIndex = 10;
-            this.txtMaSo2.Text = "49.01.104.162";
+            this.txtMaSo2.Text = "49.01.104.160";
             // 
             // label23
             // 
@@ -380,7 +380,7 @@
             this.txtTen2.ReadOnly = true;
             this.txtTen2.Size = new System.Drawing.Size(185, 19);
             this.txtTen2.TabIndex = 2;
-            this.txtTen2.Text = "Hứa Thiên Trường";
+            this.txtTen2.Text = "Nguyễn Thành Trung";
             // 
             // labelTen2
             // 
@@ -420,28 +420,28 @@
             // đăngNhậpToolStripMenuItem
             // 
             this.đăngNhậpToolStripMenuItem.Name = "đăngNhậpToolStripMenuItem";
-            this.đăngNhậpToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.đăngNhậpToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.đăngNhậpToolStripMenuItem.Text = "Đăng nhập";
             this.đăngNhậpToolStripMenuItem.Click += new System.EventHandler(this.đăngNhậpToolStripMenuItem_Click);
             // 
             // quayLạiToolStripMenuItem
             // 
             this.quayLạiToolStripMenuItem.Name = "quayLạiToolStripMenuItem";
-            this.quayLạiToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.quayLạiToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.quayLạiToolStripMenuItem.Text = "Màn hình chính";
             this.quayLạiToolStripMenuItem.Click += new System.EventHandler(this.quayLạiToolStripMenuItem_Click);
             // 
             // đăngXuấtToolStripMenuItem
             // 
             this.đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
-            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.đăngXuấtToolStripMenuItem.Text = "Đăng xuất";
             this.đăngXuấtToolStripMenuItem.Click += new System.EventHandler(this.đăngXuấtToolStripMenuItem_Click);
             // 
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.thoátToolStripMenuItem.Text = "Thoát";
             this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
             // 
@@ -458,21 +458,21 @@
             // nhânViênToolStripMenuItem
             // 
             this.nhânViênToolStripMenuItem.Name = "nhânViênToolStripMenuItem";
-            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.nhânViênToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
             this.nhânViênToolStripMenuItem.Text = "Nhân viên";
             this.nhânViênToolStripMenuItem.Click += new System.EventHandler(this.btnQLNhanVien_Click);
             // 
             // phòngBanToolStripMenuItem
             // 
             this.phòngBanToolStripMenuItem.Name = "phòngBanToolStripMenuItem";
-            this.phòngBanToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.phòngBanToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
             this.phòngBanToolStripMenuItem.Text = "Phòng ban";
             this.phòngBanToolStripMenuItem.Click += new System.EventHandler(this.btnQLPhongBan_Click);
             // 
             // đềToolStripMenuItem
             // 
             this.đềToolStripMenuItem.Name = "đềToolStripMenuItem";
-            this.đềToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.đềToolStripMenuItem.Size = new System.Drawing.Size(132, 22);
             this.đềToolStripMenuItem.Text = "Đề án";
             this.đềToolStripMenuItem.Click += new System.EventHandler(this.btnQLDeAn_Click);
             // 
@@ -490,7 +490,7 @@
             this.chươngTrìnhToolStripMenuItem,
             this.thànhViênToolStripMenuItem1});
             this.giớiThiệuToolStripMenuItem1.Name = "giớiThiệuToolStripMenuItem1";
-            this.giớiThiệuToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.giớiThiệuToolStripMenuItem1.Size = new System.Drawing.Size(125, 22);
             this.giớiThiệuToolStripMenuItem1.Text = "Giới thiệu";
             // 
             // chươngTrìnhToolStripMenuItem

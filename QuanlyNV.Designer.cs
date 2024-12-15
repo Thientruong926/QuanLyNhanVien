@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmNV));
             this.gbNV = new System.Windows.Forms.GroupBox();
             this.txtDiaChi = new System.Windows.Forms.TextBox();
             this.lblDiaChi = new System.Windows.Forms.Label();
@@ -53,7 +54,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.printPreviewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quayLạiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -64,7 +64,6 @@
             this.tìmKiếmNhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.trợGiúpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.add = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
@@ -165,9 +164,9 @@
             this.lblTenNV.AutoSize = true;
             this.lblTenNV.Location = new System.Drawing.Point(404, 31);
             this.lblTenNV.Name = "lblTenNV";
-            this.lblTenNV.Size = new System.Drawing.Size(44, 13);
+            this.lblTenNV.Size = new System.Drawing.Size(76, 13);
             this.lblTenNV.TabIndex = 3;
-            this.lblTenNV.Text = "Tên NV";
+            this.lblTenNV.Text = "Tên nhân viên";
             // 
             // lblPhongCT
             // 
@@ -192,9 +191,9 @@
             this.lblMaNV.AutoSize = true;
             this.lblMaNV.Location = new System.Drawing.Point(20, 31);
             this.lblMaNV.Name = "lblMaNV";
-            this.lblMaNV.Size = new System.Drawing.Size(40, 13);
+            this.lblMaNV.Size = new System.Drawing.Size(72, 13);
             this.lblMaNV.TabIndex = 0;
-            this.lblMaNV.Text = "Mã NV";
+            this.lblMaNV.Text = "Mã nhân viên";
             // 
             // label1
             // 
@@ -306,8 +305,7 @@
             this.fileToolStripMenuItem,
             this.editToolStripMenuItem,
             this.toolsToolStripMenuItem,
-            this.helpToolStripMenuItem,
-            this.trợGiúpToolStripMenuItem});
+            this.helpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
@@ -318,20 +316,12 @@
             // fileToolStripMenuItem
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.printPreviewToolStripMenuItem,
             this.exitToolStripMenuItem,
             this.quayLạiToolStripMenuItem,
             this.thoátToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
             this.fileToolStripMenuItem.Text = "Hệ thống";
-            // 
-            // printPreviewToolStripMenuItem
-            // 
-            this.printPreviewToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.printPreviewToolStripMenuItem.Name = "printPreviewToolStripMenuItem";
-            this.printPreviewToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.printPreviewToolStripMenuItem.Text = "Đăng nhập";
             // 
             // exitToolStripMenuItem
             // 
@@ -405,12 +395,6 @@
             this.helpToolStripMenuItem.Size = new System.Drawing.Size(86, 20);
             this.helpToolStripMenuItem.Text = "In danh sách";
             // 
-            // trợGiúpToolStripMenuItem
-            // 
-            this.trợGiúpToolStripMenuItem.Name = "trợGiúpToolStripMenuItem";
-            this.trợGiúpToolStripMenuItem.Size = new System.Drawing.Size(63, 20);
-            this.trợGiúpToolStripMenuItem.Text = "Trợ giúp";
-            // 
             // toolStrip1
             // 
             this.toolStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
@@ -424,55 +408,59 @@
             this.find});
             this.toolStrip1.Location = new System.Drawing.Point(0, 24);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(800, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(800, 27);
             this.toolStrip1.TabIndex = 8;
             this.toolStrip1.Text = "toolStrip1";
             // 
             // add
             // 
             this.add.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.add.Image = ((System.Drawing.Image)(resources.GetObject("add.Image")));
             this.add.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.add.Name = "add";
-            this.add.Size = new System.Drawing.Size(23, 22);
+            this.add.Size = new System.Drawing.Size(24, 24);
             this.add.Text = "add-user";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 27);
             // 
             // delete
             // 
             this.delete.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.delete.Image = ((System.Drawing.Image)(resources.GetObject("delete.Image")));
             this.delete.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.delete.Name = "delete";
-            this.delete.Size = new System.Drawing.Size(23, 22);
+            this.delete.Size = new System.Drawing.Size(24, 24);
             this.delete.Text = "delete-user";
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 25);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 27);
             // 
             // fix
             // 
             this.fix.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.fix.Image = ((System.Drawing.Image)(resources.GetObject("fix.Image")));
             this.fix.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.fix.Name = "fix";
-            this.fix.Size = new System.Drawing.Size(23, 22);
+            this.fix.Size = new System.Drawing.Size(24, 24);
             this.fix.Text = "fix-user";
             // 
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(6, 25);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(6, 27);
             // 
             // find
             // 
             this.find.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.find.Image = ((System.Drawing.Image)(resources.GetObject("find.Image")));
             this.find.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.find.Name = "find";
-            this.find.Size = new System.Drawing.Size(23, 22);
+            this.find.Size = new System.Drawing.Size(24, 24);
             this.find.Text = "find-user";
             // 
             // frmNV
@@ -488,7 +476,8 @@
             this.Controls.Add(this.gbNV);
             this.Controls.Add(this.menuStrip1);
             this.Name = "frmNV";
-            this.Text = "Quan ly nhan vien";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "QUẢN LÝ NHÂN VIÊN";
             this.Load += new System.EventHandler(this.frmNV_Load);
             this.gbNV.ResumeLayout(false);
             this.gbNV.PerformLayout();
@@ -522,7 +511,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem printPreviewToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem editToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem selectAllToolStripMenuItem;
@@ -531,7 +519,6 @@
         private System.Windows.Forms.ToolStripMenuItem xóaNhânViênToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sửaNhânViênToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tìmKiếmNhânViênToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem trợGiúpToolStripMenuItem;
         private System.Windows.Forms.ToolStrip toolStrip1;
         private System.Windows.Forms.ToolStripButton add;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;

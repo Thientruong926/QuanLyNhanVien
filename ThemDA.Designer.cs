@@ -155,7 +155,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "ThemDA";
-            this.Text = "ThemDA";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "THÊM ĐỀ ÁN";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -159,6 +159,9 @@
     <EmbeddedResource Include="frmActive.resx">
       <DependentUpon>frmActive.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmForgotPass.resx">
+      <DependentUpon>frmForgotPass.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmGTCT.resx">
       <DependentUpon>frmGTCT.cs</DependentUpon>
     </EmbeddedResource>
@@ -170,6 +173,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmResetPass.resx">
       <DependentUpon>frmResetPass.cs</DependentUpon>
@@ -183,8 +189,32 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="QuanLyDA.resx">
+      <DependentUpon>QuanLyDA.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="QuanlyNV.resx">
       <DependentUpon>QuanlyNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyPB.resx">
+      <DependentUpon>QuanLyPB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuaDA.resx">
+      <DependentUpon>SuaDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuaNV.resx">
+      <DependentUpon>SuaNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuaPB.resx">
+      <DependentUpon>SuaPB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemDA.resx">
+      <DependentUpon>ThemDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemNV.resx">
+      <DependentUpon>ThemNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemPB.resx">
+      <DependentUpon>ThemPB.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="database.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>

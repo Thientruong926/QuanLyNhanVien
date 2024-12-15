@@ -33,6 +33,31 @@ namespace QuanLyNhanVien
             {
                 hienthiPB(0);
             }
+            try
+            {
+                NGUOIDUNG nd = db.NGUOIDUNGs.Single(p => p.Username == frmMain.infor);
+                if (nd != null)
+                {
+                    if (nd.LeaveID == 1)
+                    {
+                        selectAllToolStripMenuItem.Enabled = false;
+                        xóaPhòngBanToolStripMenuItem.Enabled = false;
+                        sửaPhòngBanToolStripMenuItem.Enabled = false;
+                    }
+                    if (nd.LeaveID == 2)
+                    {
+                        selectAllToolStripMenuItem.Enabled = false;
+                        xóaPhòngBanToolStripMenuItem.Enabled = false;
+                        sửaPhòngBanToolStripMenuItem.Enabled = false;
+                        thêmNhânViênVàoPbToolStripMenuItem.Enabled = false;
+                        xóaNhânViênKhỏiPbToolStripMenuItem.Enabled = false;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi phân quyền người dùng", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
         private void hienthiPB(int id)
         {
@@ -337,7 +362,41 @@ namespace QuanLyNhanVien
 
         private void quayLạiToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            frmMain frm = new frmMain();
+            frm.Show();
             this.Close();
+        }
+
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show(
+                "Bạn có chắc chắn muốn đăng xuất không?",
+                "Xác nhận đăng xuất",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+            if (result == DialogResult.Yes)
+            {
+                frmMain.infor = "Trạng thái: Chưa đăng nhập";
+                frmMain.isLoggedIn = false;
+                frmMain frm = new frmMain();
+                this.Close();
+                frm.Show();
+            }
+        }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show(
+                "Bạn có chắc chắn muốn thoát không?",
+                "Xác nhận thoát",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
     }
 }

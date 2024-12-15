@@ -47,9 +47,10 @@
             // 
             this.lbLinkLogin.AutoSize = true;
             this.lbLinkLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbLinkLogin.Location = new System.Drawing.Point(48, 481);
+            this.lbLinkLogin.Location = new System.Drawing.Point(36, 391);
+            this.lbLinkLogin.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbLinkLogin.Name = "lbLinkLogin";
-            this.lbLinkLogin.Size = new System.Drawing.Size(291, 20);
+            this.lbLinkLogin.Size = new System.Drawing.Size(251, 17);
             this.lbLinkLogin.TabIndex = 17;
             this.lbLinkLogin.Text = "Bạn đã có tài khoản? Đăng nhập ngay";
             this.lbLinkLogin.Click += new System.EventHandler(this.lbLinkLogin_Click);
@@ -59,10 +60,10 @@
             this.ButtonRegister.BackColor = System.Drawing.Color.MediumPurple;
             this.ButtonRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ButtonRegister.ForeColor = System.Drawing.SystemColors.Control;
-            this.ButtonRegister.Location = new System.Drawing.Point(71, 410);
-            this.ButtonRegister.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ButtonRegister.Location = new System.Drawing.Point(53, 333);
+            this.ButtonRegister.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ButtonRegister.Name = "ButtonRegister";
-            this.ButtonRegister.Size = new System.Drawing.Size(276, 49);
+            this.ButtonRegister.Size = new System.Drawing.Size(207, 40);
             this.ButtonRegister.TabIndex = 15;
             this.ButtonRegister.Text = "Đăng ký";
             this.ButtonRegister.UseVisualStyleBackColor = false;
@@ -70,12 +71,12 @@
             // 
             // txtPassword
             // 
-            this.txtPassword.Location = new System.Drawing.Point(71, 263);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtPassword.Location = new System.Drawing.Point(53, 214);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtPassword.Multiline = true;
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
-            this.txtPassword.Size = new System.Drawing.Size(276, 29);
+            this.txtPassword.Size = new System.Drawing.Size(208, 24);
             this.txtPassword.TabIndex = 13;
             this.txtPassword.TextChanged += new System.EventHandler(this.txtPassword_TextChanged);
             // 
@@ -84,19 +85,20 @@
             this.lbPassword.AutoSize = true;
             this.lbPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbPassword.ForeColor = System.Drawing.Color.Black;
-            this.lbPassword.Location = new System.Drawing.Point(67, 240);
+            this.lbPassword.Location = new System.Drawing.Point(50, 195);
+            this.lbPassword.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbPassword.Name = "lbPassword";
-            this.lbPassword.Size = new System.Drawing.Size(108, 24);
+            this.lbPassword.Size = new System.Drawing.Size(84, 18);
             this.lbPassword.TabIndex = 12;
             this.lbPassword.Text = "MẬT KHẨU";
             // 
             // txtUsername
             // 
-            this.txtUsername.Location = new System.Drawing.Point(71, 126);
-            this.txtUsername.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtUsername.Location = new System.Drawing.Point(53, 102);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(276, 30);
+            this.txtUsername.Size = new System.Drawing.Size(208, 25);
             this.txtUsername.TabIndex = 11;
             this.txtUsername.TextChanged += new System.EventHandler(this.txtUsername_TextChanged);
             // 
@@ -105,9 +107,10 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(67, 102);
+            this.label1.Location = new System.Drawing.Point(50, 83);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(156, 24);
+            this.label1.Size = new System.Drawing.Size(120, 18);
             this.label1.TabIndex = 10;
             this.label1.Text = "TÊN TÀI KHOẢN";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -117,9 +120,10 @@
             this.lbLogin.AutoSize = true;
             this.lbLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbLogin.ForeColor = System.Drawing.Color.BlueViolet;
-            this.lbLogin.Location = new System.Drawing.Point(268, -66);
+            this.lbLogin.Location = new System.Drawing.Point(201, -54);
+            this.lbLogin.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbLogin.Name = "lbLogin";
-            this.lbLogin.Size = new System.Drawing.Size(181, 58);
+            this.lbLogin.Size = new System.Drawing.Size(143, 46);
             this.lbLogin.TabIndex = 9;
             this.lbLogin.Text = "LOGIN";
             // 
@@ -127,10 +131,10 @@
             // 
             this.ShowPass.AutoSize = true;
             this.ShowPass.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ShowPass.Location = new System.Drawing.Point(191, 379);
-            this.ShowPass.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ShowPass.Location = new System.Drawing.Point(143, 308);
+            this.ShowPass.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ShowPass.Name = "ShowPass";
-            this.ShowPass.Size = new System.Drawing.Size(139, 24);
+            this.ShowPass.Size = new System.Drawing.Size(118, 21);
             this.ShowPass.TabIndex = 14;
             this.ShowPass.Text = "Hiện mật khẩu";
             this.ShowPass.UseVisualStyleBackColor = true;
@@ -138,12 +142,12 @@
             // 
             // txtConfirmPass
             // 
-            this.txtConfirmPass.Location = new System.Drawing.Point(71, 335);
-            this.txtConfirmPass.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtConfirmPass.Location = new System.Drawing.Point(53, 272);
+            this.txtConfirmPass.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtConfirmPass.Multiline = true;
             this.txtConfirmPass.Name = "txtConfirmPass";
             this.txtConfirmPass.PasswordChar = '*';
-            this.txtConfirmPass.Size = new System.Drawing.Size(276, 29);
+            this.txtConfirmPass.Size = new System.Drawing.Size(208, 24);
             this.txtConfirmPass.TabIndex = 22;
             this.txtConfirmPass.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -152,20 +156,21 @@
             this.lbConfirmPass.AutoSize = true;
             this.lbConfirmPass.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbConfirmPass.ForeColor = System.Drawing.Color.Black;
-            this.lbConfirmPass.Location = new System.Drawing.Point(67, 311);
+            this.lbConfirmPass.Location = new System.Drawing.Point(50, 253);
+            this.lbConfirmPass.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbConfirmPass.Name = "lbConfirmPass";
-            this.lbConfirmPass.Size = new System.Drawing.Size(198, 24);
+            this.lbConfirmPass.Size = new System.Drawing.Size(153, 18);
             this.lbConfirmPass.TabIndex = 21;
             this.lbConfirmPass.Text = "NHẬP LẠI MẬT KHẨU";
             this.lbConfirmPass.Click += new System.EventHandler(this.label4_Click);
             // 
             // textEmail
             // 
-            this.textEmail.Location = new System.Drawing.Point(71, 196);
-            this.textEmail.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textEmail.Location = new System.Drawing.Point(53, 159);
+            this.textEmail.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textEmail.Multiline = true;
             this.textEmail.Name = "textEmail";
-            this.textEmail.Size = new System.Drawing.Size(276, 30);
+            this.textEmail.Size = new System.Drawing.Size(208, 25);
             this.textEmail.TabIndex = 24;
             this.textEmail.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             // 
@@ -174,9 +179,10 @@
             this.lbEmail.AutoSize = true;
             this.lbEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbEmail.ForeColor = System.Drawing.Color.Black;
-            this.lbEmail.Location = new System.Drawing.Point(67, 172);
+            this.lbEmail.Location = new System.Drawing.Point(50, 140);
+            this.lbEmail.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbEmail.Name = "lbEmail";
-            this.lbEmail.Size = new System.Drawing.Size(66, 24);
+            this.lbEmail.Size = new System.Drawing.Size(51, 18);
             this.lbEmail.TabIndex = 23;
             this.lbEmail.Text = "EMAIL";
             // 
@@ -185,17 +191,18 @@
             this.lbRegister.AutoSize = true;
             this.lbRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbRegister.ForeColor = System.Drawing.Color.MediumSlateBlue;
-            this.lbRegister.Location = new System.Drawing.Point(60, 22);
+            this.lbRegister.Location = new System.Drawing.Point(45, 18);
+            this.lbRegister.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbRegister.Name = "lbRegister";
-            this.lbRegister.Size = new System.Drawing.Size(248, 58);
+            this.lbRegister.Size = new System.Drawing.Size(199, 46);
             this.lbRegister.TabIndex = 27;
             this.lbRegister.Text = "ĐĂNG KÝ";
             // 
             // frmRegister
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(423, 513);
+            this.ClientSize = new System.Drawing.Size(317, 417);
             this.Controls.Add(this.lbRegister);
             this.Controls.Add(this.textEmail);
             this.Controls.Add(this.lbEmail);
@@ -209,10 +216,10 @@
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lbLogin);
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frmRegister";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Register";
+            this.Text = "ĐĂNG KÝ";
             this.Load += new System.EventHandler(this.frmRegister_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

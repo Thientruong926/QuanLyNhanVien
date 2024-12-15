@@ -40,7 +40,7 @@
             // txtConfirmNewPass
             // 
             this.txtConfirmNewPass.Location = new System.Drawing.Point(67, 101);
-            this.txtConfirmNewPass.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtConfirmNewPass.Margin = new System.Windows.Forms.Padding(2);
             this.txtConfirmNewPass.Multiline = true;
             this.txtConfirmNewPass.Name = "txtConfirmNewPass";
             this.txtConfirmNewPass.PasswordChar = '*';
@@ -63,7 +63,7 @@
             // txtNewPassword
             // 
             this.txtNewPassword.Location = new System.Drawing.Point(67, 51);
-            this.txtNewPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtNewPassword.Margin = new System.Windows.Forms.Padding(2);
             this.txtNewPassword.Multiline = true;
             this.txtNewPassword.Name = "txtNewPassword";
             this.txtNewPassword.PasswordChar = '*';
@@ -88,7 +88,7 @@
             this.ShowPass.AutoSize = true;
             this.ShowPass.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ShowPass.Location = new System.Drawing.Point(155, 138);
-            this.ShowPass.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ShowPass.Margin = new System.Windows.Forms.Padding(2);
             this.ShowPass.Name = "ShowPass";
             this.ShowPass.Size = new System.Drawing.Size(137, 21);
             this.ShowPass.TabIndex = 27;
@@ -102,7 +102,7 @@
             this.ButtonConfirm.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ButtonConfirm.ForeColor = System.Drawing.SystemColors.Control;
             this.ButtonConfirm.Location = new System.Drawing.Point(67, 167);
-            this.ButtonConfirm.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ButtonConfirm.Margin = new System.Windows.Forms.Padding(2);
             this.ButtonConfirm.Name = "ButtonConfirm";
             this.ButtonConfirm.Size = new System.Drawing.Size(207, 40);
             this.ButtonConfirm.TabIndex = 28;
@@ -136,10 +136,10 @@
             this.Controls.Add(this.lbConfirmNewPass);
             this.Controls.Add(this.txtNewPassword);
             this.Controls.Add(this.lbNewPassword);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmResetPass";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Reset Password";
+            this.Text = "ĐẶT LẠI MẬT KHẨU";
             this.ResumeLayout(false);
             this.PerformLayout();
 

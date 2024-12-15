@@ -33,7 +33,23 @@ namespace QuanLyNhanVien
             {
                 hienthi(0);
             }
-
+            try
+            {
+                NGUOIDUNG nd = db.NGUOIDUNGs.Single(p => p.Username == frmMain.infor);
+                if (nd != null)
+                {
+                    if (nd.LeaveID == 2)
+                    {
+                        selectAllToolStripMenuItem.Enabled = false;
+                        xóaNhânViênToolStripMenuItem.Enabled = false;
+                        sửaNhânViênToolStripMenuItem.Enabled = false;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi phân quyền người dùng", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void dgvNV_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -180,7 +196,16 @@ namespace QuanLyNhanVien
 
         private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Windows.Forms.Application.Exit();
+            DialogResult result = MessageBox.Show(
+                "Bạn có chắc chắn muốn thoát không?",
+                "Xác nhận thoát",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -192,8 +217,20 @@ namespace QuanLyNhanVien
 
         private void quayLạiToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmMain.isLoggedIn = false;
-            frmMain.infor = "Trạng thái: Chưa đăng nhập";
+            DialogResult result = MessageBox.Show(
+                "Bạn có chắc chắn muốn đăng xuất không?",
+                "Xác nhận đăng xuất",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+            if (result == DialogResult.Yes)
+            {
+                frmMain.infor = "Trạng thái: Chưa đăng nhập";
+                frmMain.isLoggedIn = false;
+                frmMain frm = new frmMain();
+                this.Close();
+                frm.Show();
+            }
         }
     }
 }

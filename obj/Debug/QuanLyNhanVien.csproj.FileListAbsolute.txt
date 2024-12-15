@@ -13,3 +13,14 @@ C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmGTTV.resou
 C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmActive.resources
 C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmLogin.resources
 C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmResetPass.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmDA.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmNV.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmPB.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmForgotPass.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmRegister.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.SuaDA.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.SuaNV.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.SuaPB.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ThemDA.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ThemNV.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ThemPB.resources

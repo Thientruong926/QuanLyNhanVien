@@ -69,7 +69,7 @@
             // txtUsername
             // 
             this.txtUsername.Location = new System.Drawing.Point(41, 87);
-            this.txtUsername.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtUsername.Margin = new System.Windows.Forms.Padding(2);
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(208, 25);
@@ -79,7 +79,7 @@
             // txtPassword
             // 
             this.txtPassword.Location = new System.Drawing.Point(41, 147);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(2);
             this.txtPassword.Multiline = true;
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
@@ -105,7 +105,7 @@
             this.ShowPass.AutoSize = true;
             this.ShowPass.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ShowPass.Location = new System.Drawing.Point(129, 183);
-            this.ShowPass.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ShowPass.Margin = new System.Windows.Forms.Padding(2);
             this.ShowPass.Name = "ShowPass";
             this.ShowPass.Size = new System.Drawing.Size(118, 21);
             this.ShowPass.TabIndex = 5;
@@ -119,7 +119,7 @@
             this.ButtonLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ButtonLogin.ForeColor = System.Drawing.SystemColors.Control;
             this.ButtonLogin.Location = new System.Drawing.Point(43, 213);
-            this.ButtonLogin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ButtonLogin.Margin = new System.Windows.Forms.Padding(2);
             this.ButtonLogin.Name = "ButtonLogin";
             this.ButtonLogin.Size = new System.Drawing.Size(207, 40);
             this.ButtonLogin.TabIndex = 6;
@@ -160,7 +160,7 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button1.Location = new System.Drawing.Point(42, 270);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(207, 40);
             this.button1.TabIndex = 9;
@@ -183,10 +183,10 @@
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lbLogin);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Đăng nhập hệ thống";
+            this.Text = "ĐĂNG NHẬP HỆ THỐNG";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

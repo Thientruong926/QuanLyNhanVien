@@ -212,7 +212,7 @@
             this.btnThoat.UseVisualStyleBackColor = false;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
-            // ThemNV
+            // SuaNV
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -236,8 +236,9 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.MaNV);
             this.Controls.Add(this.label1);
-            this.Name = "ThemNV";
-            this.Text = "ThemNV";
+            this.Name = "SuaNV";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "SỬA NHÂN VIÊN";
             this.Load += new System.EventHandler(this.SuaNV_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -127,7 +127,8 @@ namespace QuanLyNhanVien
             this.Controls.Add(this.lbOTP);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmActive";
-            this.Text = "Kích hoạt tài khoản";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "KÍCH HOẠT TÀI KHOẢN";
             this.ResumeLayout(false);
             this.PerformLayout();
 

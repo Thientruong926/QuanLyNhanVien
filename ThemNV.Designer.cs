@@ -237,7 +237,8 @@
             this.Controls.Add(this.MaNV);
             this.Controls.Add(this.label1);
             this.Name = "ThemNV";
-            this.Text = "ThemNV";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "THÊM NHÂN VIÊN";
             this.Load += new System.EventHandler(this.ThemNV_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

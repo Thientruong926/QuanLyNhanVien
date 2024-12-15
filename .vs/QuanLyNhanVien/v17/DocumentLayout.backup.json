@@ -3,104 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlyda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlyda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\suada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:suada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgtct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgtct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlypb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlypb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlyda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlyda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\database.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:database.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\themda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:themda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlyda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlyda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlypb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlypb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlypb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlypb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\quanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:quanlynv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\database.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:database.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\suanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,8 +63,92 @@
       "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:suapb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\thempb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:thempb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\suapb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:suapb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\themda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:themda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\suanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:suanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\suada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:suada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmresetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgtct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|c:\\users\\asus\\source\\repos\\quanlynhanvien\\frmactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmactive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmforgotpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgttv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\suada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:suada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\themda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:themda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\thempb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:thempb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmgtct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C664EF2-7571-4F61-95BC-77C267A3B45B}|QuanLyNhanVien.csproj|solutionrelative:frmgtct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,11 +158,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 33,
               "Title": "SuaDA.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaDA.cs",
               "RelativeDocumentMoniker": "SuaDA.cs",
@@ -144,44 +180,152 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThemDA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemDA.cs",
+              "RelativeDocumentMoniker": "ThemDA.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemDA.cs [Design]",
+              "RelativeToolTip": "ThemDA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:50:13.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThemPB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemPB.cs",
+              "RelativeDocumentMoniker": "ThemPB.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemPB.cs [Design]",
+              "RelativeToolTip": "ThemPB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:49:29.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SuaPB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaPB.cs",
+              "RelativeDocumentMoniker": "SuaPB.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaPB.cs [Design]",
+              "RelativeToolTip": "SuaPB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:49:24.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuaNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaNV.cs",
+              "RelativeDocumentMoniker": "SuaNV.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaNV.cs [Design]",
+              "RelativeToolTip": "SuaNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:49:07.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SuaDA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaDA.cs",
+              "RelativeDocumentMoniker": "SuaDA.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaDA.cs [Design]",
+              "RelativeToolTip": "SuaDA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:48:47.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyPB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyPB.cs",
+              "RelativeDocumentMoniker": "QuanLyPB.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyPB.cs [Design]*",
+              "RelativeToolTip": "QuanLyPB.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:15:34.964Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "QuanLyDA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyDA.cs",
+              "RelativeDocumentMoniker": "QuanLyDA.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyDA.cs [Design]*",
+              "RelativeToolTip": "QuanLyDA.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:07:15.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanlyNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanlyNV.cs",
+              "RelativeDocumentMoniker": "QuanlyNV.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanlyNV.cs [Design]",
+              "RelativeToolTip": "QuanlyNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:56:26.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThemNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemNV.cs",
+              "RelativeDocumentMoniker": "ThemNV.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemNV.cs [Design]",
+              "RelativeToolTip": "ThemNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:57:26.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "frmGTTV.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTTV.cs",
               "RelativeDocumentMoniker": "frmGTTV.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTTV.cs [Design]*",
-              "RelativeToolTip": "frmGTTV.cs [Design]*",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTTV.cs [Design]",
+              "RelativeToolTip": "frmGTTV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T15:37:20.823Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 27,
               "Title": "frmGTCT.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTCT.cs",
               "RelativeDocumentMoniker": "frmGTCT.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTCT.cs [Design]*",
-              "RelativeToolTip": "frmGTCT.cs [Design]*",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTCT.cs [Design]",
+              "RelativeToolTip": "frmGTCT.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T15:35:15.909Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "frmMain.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmMain.cs",
               "RelativeToolTip": "frmMain.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T08:11:26.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
@@ -193,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -205,63 +349,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "frmResetPass.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmResetPass.cs",
               "RelativeDocumentMoniker": "frmResetPass.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmResetPass.cs [Design]",
               "RelativeToolTip": "frmResetPass.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T12:05:43.579Z"
+              "WhenOpened": "2024-12-15T12:05:43.579Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "QuanLyDA.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyDA.cs",
-              "RelativeDocumentMoniker": "QuanLyDA.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyDA.cs",
-              "RelativeToolTip": "QuanLyDA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:45:34.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "frmRegister.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmRegister.cs",
               "RelativeDocumentMoniker": "frmRegister.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmRegister.cs [Design]",
               "RelativeToolTip": "frmRegister.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:45:46.963Z"
+              "WhenOpened": "2024-12-15T11:45:46.963Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "frmForgotPass.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmForgotPass.cs",
               "RelativeDocumentMoniker": "frmForgotPass.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmForgotPass.cs [Design]",
               "RelativeToolTip": "frmForgotPass.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:43:04.611Z"
+              "WhenOpened": "2024-12-15T10:43:04.611Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "frmActive.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmActive.cs",
               "RelativeDocumentMoniker": "frmActive.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmActive.cs [Design]",
               "RelativeToolTip": "frmActive.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:40:21.373Z"
+              "WhenOpened": "2024-12-15T10:40:21.373Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -269,47 +405,51 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T09:07:35.314Z"
+              "WhenOpened": "2024-12-15T09:07:35.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "ThemPB.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemPB.cs",
               "RelativeDocumentMoniker": "ThemPB.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemPB.cs",
               "RelativeToolTip": "ThemPB.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:58:20.107Z"
+              "WhenOpened": "2024-12-15T08:58:20.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "ThemNV.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemNV.cs",
               "RelativeDocumentMoniker": "ThemNV.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemNV.cs",
               "RelativeToolTip": "ThemNV.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:57:15.896Z"
+              "WhenOpened": "2024-12-15T08:57:15.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "ThemDA.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemDA.cs",
               "RelativeDocumentMoniker": "ThemDA.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\ThemDA.cs",
               "RelativeToolTip": "ThemDA.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAxwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:55:41.687Z"
+              "WhenOpened": "2024-12-15T08:55:41.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 14,
               "Title": "SuaPB.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaPB.cs",
               "RelativeDocumentMoniker": "SuaPB.cs",
@@ -317,11 +457,12 @@
               "RelativeToolTip": "SuaPB.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAAwEwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:54:14.71Z"
+              "WhenOpened": "2024-12-15T08:54:14.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 13,
               "Title": "SuaNV.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\SuaNV.cs",
               "RelativeDocumentMoniker": "SuaNV.cs",
@@ -329,47 +470,64 @@
               "RelativeToolTip": "SuaNV.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:52:30.706Z"
+              "WhenOpened": "2024-12-15T08:52:30.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "QuanLyPB.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyPB.cs",
-              "RelativeDocumentMoniker": "QuanLyPB.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyPB.cs",
-              "RelativeToolTip": "QuanLyPB.cs",
-              "ViewState": "AgIAADcBAAAAAAAAAAAUwFYBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:49:47.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 6,
               "Title": "QuanlyNV.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanlyNV.cs",
               "RelativeDocumentMoniker": "QuanlyNV.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanlyNV.cs",
               "RelativeToolTip": "QuanlyNV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:47:35.201Z"
+              "WhenOpened": "2024-12-15T08:47:35.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "QuanLyPB.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyPB.cs",
+              "RelativeDocumentMoniker": "QuanLyPB.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyPB.cs*",
+              "RelativeToolTip": "QuanLyPB.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:49:47.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmActive.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmActive.cs",
               "RelativeDocumentMoniker": "frmActive.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmActive.cs",
               "RelativeToolTip": "frmActive.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAuwJUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwJUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:39:24.656Z"
+              "WhenOpened": "2024-12-15T08:39:24.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
+              "Title": "QuanLyDA.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyDA.cs",
+              "RelativeDocumentMoniker": "QuanLyDA.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\QuanLyDA.cs*",
+              "RelativeToolTip": "QuanLyDA.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:45:34.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "frmResetPass.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmResetPass.cs",
               "RelativeDocumentMoniker": "frmResetPass.cs",
@@ -377,61 +535,64 @@
               "RelativeToolTip": "frmResetPass.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:34:55.614Z"
+              "WhenOpened": "2024-12-15T08:34:55.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "frmRegister.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmRegister.cs",
               "RelativeDocumentMoniker": "frmRegister.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmRegister.cs",
               "RelativeToolTip": "frmRegister.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAYwHwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwG4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:31:25.218Z"
+              "WhenOpened": "2024-12-15T08:31:25.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "frmForgotPass.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmForgotPass.cs",
               "RelativeDocumentMoniker": "frmForgotPass.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmForgotPass.cs",
               "RelativeToolTip": "frmForgotPass.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwDcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwIEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T08:29:27.73Z"
+              "WhenOpened": "2024-12-15T08:29:27.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmLogin.cs",
               "RelativeToolTip": "frmLogin.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAmwI8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwI4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T08:27:06.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 30,
               "Title": "frmGTTV.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTTV.cs",
               "RelativeDocumentMoniker": "frmGTTV.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTTV.cs*",
-              "RelativeToolTip": "frmGTTV.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwC4AAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTTV.cs",
+              "RelativeToolTip": "frmGTTV.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAjwGwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T08:22:16.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 36,
               "Title": "frmGTCT.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTCT.Designer.cs",
               "RelativeDocumentMoniker": "frmGTCT.Designer.cs",
@@ -444,27 +605,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "frmGTCT.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTCT.cs",
               "RelativeDocumentMoniker": "frmGTCT.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTCT.cs*",
-              "RelativeToolTip": "frmGTCT.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswCoAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\frmGTCT.cs",
+              "RelativeToolTip": "frmGTCT.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAhwGMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T08:18:00.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "database.dbml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\database.dbml",
               "RelativeDocumentMoniker": "database.dbml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\QuanLyNhanVien\\database.dbml",
               "RelativeToolTip": "database.dbml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2024-12-15T08:08:11.48Z"
+              "WhenOpened": "2024-12-15T08:08:11.48Z",
+              "EditorCaption": ""
             }
           ]
         }
