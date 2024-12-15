@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+C:\Users\ASUS\source\repos\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+C:\Users\ASUS\source\repos\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmGTCT.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmMain.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmGTTV.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmActive.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmLogin.resources
+C:\Users\ASUS\source\repos\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.frmResetPass.resources
